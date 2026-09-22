@@ -1,0 +1,17 @@
+# AI To-Do List - Intelligent Task Prioritizer
+# ==========================================================
+# No external packages are required!
+# This application is 100% offline and uses only the
+# Python Standard Library included with Python 3.8+:
+#
+# - tkinter & ttk (Desktop GUI Framework)
+# - sqlite3 (Local Embedded Database Engine)
+# - datetime (Date calculations and formatting)
+# - unittest (Automated Testing Framework)
+#
+# To run this project:
+#   python main.py
+#
+# To run tests:
+#   python test_suite.py
+# ==========================================================
