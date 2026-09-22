@@ -1,4 +1,3 @@
-
 # AI To-Do List
 
 A simple desktop To-Do List application built with Python, Tkinter, and SQLite.
